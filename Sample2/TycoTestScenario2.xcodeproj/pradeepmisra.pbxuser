@@ -1,0 +1,609 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TycoTestScenario2AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 588}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRange = "{0, 407}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TycoTestScenario2AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1659.21, 2744}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRange = "{0, 343}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TycoTestScenario2 */ = {
+		activeExec = 0;
+		executables = (
+			49B778CA157F884200BFECD5 /* TycoTestScenario2 */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* TycoTestScenario2_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1543.62, 450}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 340}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 1428}}";
+			sepNavSelRange = "{87, 0}";
+			sepNavVisRange = "{898, 683}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1832.6, 5180}}";
+			sepNavSelRange = "{758, 0}";
+			sepNavVisRange = "{0, 445}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 49B778CA157F884200BFECD5 /* TycoTestScenario2 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TycoTestScenario2 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TycoTestScenario2 */,
+		);
+		breakpoints = (
+			49D12E95157FD69800E2F81E /* RootViewController.m:90 */,
+			49D12E97157FD69A00E2F81E /* RootViewController.m:104 */,
+			49D12E99157FD69C00E2F81E /* RootViewController.m:77 */,
+			49D12E9B157FD69E00E2F81E /* RootViewController.m:65 */,
+			49D12E9D157FD6A000E2F81E /* RootViewController.m:54 */,
+			49D12E9F157FD6A200E2F81E /* RootViewController.m:43 */,
+			49B7B05A15847561000DE978 /* TycoTestScenarioDetailView.m:70 */,
+			49B7B0631584762E000DE978 /* TycoTestScenarioDetailView.m:100 */,
+			49B7B06C1584768F000DE978 /* TycoTestScenarioDetailView.m:38 */,
+			49B7B06E15847690000DE978 /* TycoTestScenarioDetailView.m:40 */,
+			49B7B07015847696000DE978 /* TycoTestScenarioDetailView.m:62 */,
+			49B7B0791584771B000DE978 /* TycoTestScenarioDetailView.m:67 */,
+			499FB38C1584A0200018D95E /* TycoTestScenarioDetailView.m:73 */,
+			499FB38E1584A0270018D95E /* TycoTestScenarioDetailView.m:76 */,
+			499FB3901584A0290018D95E /* TycoTestScenarioDetailView.m:81 */,
+			499FB3921584A02B0018D95E /* TycoTestScenarioDetailView.m:87 */,
+			499FB3941584A02C0018D95E /* TycoTestScenarioDetailView.m:92 */,
+			499FB3961584A02D0018D95E /* TycoTestScenarioDetailView.m:97 */,
+		);
+		codeSenseManager = 49B778E9157F884900BFECD5 /* Code sense */;
+		executables = (
+			49B778CA157F884200BFECD5 /* TycoTestScenario2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1153,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 361017474;
+			PBXWorkspaceStateSaveDate = 361017474;
+		};
+		perUserProjectItems = {
+			499FB3B21584A33A0018D95E /* PBXTextBookmark */ = 499FB3B21584A33A0018D95E /* PBXTextBookmark */;
+			499FB3B31584A33A0018D95E /* PBXTextBookmark */ = 499FB3B31584A33A0018D95E /* PBXTextBookmark */;
+			499FB3B41584A33A0018D95E /* PBXTextBookmark */ = 499FB3B41584A33A0018D95E /* PBXTextBookmark */;
+			499FB3B51584A33A0018D95E /* PBXTextBookmark */ = 499FB3B51584A33A0018D95E /* PBXTextBookmark */;
+			499FB3B71584A33A0018D95E /* PlistBookmark */ = 499FB3B71584A33A0018D95E /* PlistBookmark */;
+			499FB3B81584A33A0018D95E /* PBXTextBookmark */ = 499FB3B81584A33A0018D95E /* PBXTextBookmark */;
+			499FB4131584AAD30018D95E /* PBXTextBookmark */ = 499FB4131584AAD30018D95E /* PBXTextBookmark */;
+			499FB4141584AAD30018D95E /* PBXTextBookmark */ = 499FB4141584AAD30018D95E /* PBXTextBookmark */;
+			49C2EF231584B09800C0F6D3 /* PBXTextBookmark */ = 49C2EF231584B09800C0F6D3 /* PBXTextBookmark */;
+			49C2EF2A1584C20E00C0F6D3 /* PBXTextBookmark */ = 49C2EF2A1584C20E00C0F6D3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 49B778E8157F884900BFECD5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 504}}";
+			sepNavSelRange = "{73, 0}";
+			sepNavVisRange = "{0, 373}";
+		};
+	};
+	499FB38C1584A0200018D95E /* TycoTestScenarioDetailView.m:73 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 73;
+		location = TycoTestScenario2;
+		modificationTime = 361013575.6630521;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	499FB38E1584A0270018D95E /* TycoTestScenarioDetailView.m:76 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 76;
+		location = TycoTestScenario2;
+		modificationTime = 361013601.32386;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	499FB3901584A0290018D95E /* TycoTestScenarioDetailView.m:81 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 81;
+		location = TycoTestScenario2;
+		modificationTime = 361013575.663246;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	499FB3921584A02B0018D95E /* TycoTestScenarioDetailView.m:87 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 87;
+		location = TycoTestScenario2;
+		modificationTime = 361013575.6633321;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	499FB3941584A02C0018D95E /* TycoTestScenarioDetailView.m:92 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 92;
+		location = TycoTestScenario2;
+		modificationTime = 361013575.6633929;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	499FB3961584A02D0018D95E /* TycoTestScenarioDetailView.m:97 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 97;
+		location = TycoTestScenario2;
+		modificationTime = 361013575.663462;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	499FB3B21584A33A0018D95E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TycoTestScenario2AppDelegate.h */;
+		name = "TycoTestScenario2AppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 0;
+	};
+	499FB3B31584A33A0018D95E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TycoTestScenario2AppDelegate.m */;
+		name = "TycoTestScenario2AppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 343;
+		vrLoc = 0;
+	};
+	499FB3B41584A33A0018D95E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49D12E8F157FD1EE00E2F81E /* TycoTestScenarioDetailView.h */;
+		name = "TycoTestScenarioDetailView.h: 5";
+		rLen = 0;
+		rLoc = 95;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	499FB3B51584A33A0018D95E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		name = "TycoTestScenarioDetailView.m: 5";
+		rLen = 0;
+		rLoc = 95;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 0;
+	};
+	499FB3B71584A33A0018D95E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TycoTestScenario2-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/pradeepmisra/Desktop/Tyco_Test/TycoTestScenario2/TycoTestScenario2-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	499FB3B81584A33A0018D95E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 5";
+		rLen = 0;
+		rLoc = 87;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 898;
+	};
+	499FB4131584AAD30018D95E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 28";
+		rLen = 0;
+		rLoc = 758;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	499FB4141584AAD30018D95E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 73;
+		rType = 0;
+		vrLen = 373;
+		vrLoc = 0;
+	};
+	49B778CA157F884200BFECD5 /* TycoTestScenario2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TycoTestScenario2;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	49B778E8157F884900BFECD5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	49B778E9157F884900BFECD5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	49B7B05A15847561000DE978 /* TycoTestScenarioDetailView.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = TycoTestScenario2;
+		modificationTime = 361013599.834435;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49B7B0631584762E000DE978 /* TycoTestScenarioDetailView.m:100 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 100;
+		location = TycoTestScenario2;
+		modificationTime = 361013603.2240371;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49B7B06C1584768F000DE978 /* TycoTestScenarioDetailView.m:38 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 38;
+		location = TycoTestScenario2;
+		modificationTime = 361013587.907374;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49B7B06E15847690000DE978 /* TycoTestScenarioDetailView.m:40 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 40;
+		location = TycoTestScenario2;
+		modificationTime = 361013588.969074;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49B7B07015847696000DE978 /* TycoTestScenarioDetailView.m:62 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 62;
+		location = TycoTestScenario2;
+		modificationTime = 361013593.1571401;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49B7B0791584771B000DE978 /* TycoTestScenarioDetailView.m:67 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */;
+		functionName = "-viewWillDisappear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 67;
+		location = TycoTestScenario2;
+		modificationTime = 361013575.662979;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49C2EF231584B09800C0F6D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* TycoTestScenario2_Prefix.pch */;
+		name = "TycoTestScenario2_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 340;
+		vrLoc = 0;
+	};
+	49C2EF2A1584C20E00C0F6D3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* TycoTestScenario2_Prefix.pch */;
+		name = "TycoTestScenario2_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 340;
+		vrLoc = 0;
+	};
+	49D12E8F157FD1EE00E2F81E /* TycoTestScenarioDetailView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1331, 476}}";
+			sepNavSelRange = "{95, 0}";
+			sepNavVisRange = "{0, 260}";
+		};
+	};
+	49D12E90157FD1EE00E2F81E /* TycoTestScenarioDetailView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2352.77, 3360}}";
+			sepNavSelRange = "{95, 0}";
+			sepNavVisRange = "{0, 579}";
+		};
+	};
+	49D12E95157FD69800E2F81E /* RootViewController.m:90 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-buttonClicked:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 90;
+		location = TycoTestScenario2;
+		modificationTime = 361013575.662247;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49D12E97157FD69A00E2F81E /* RootViewController.m:104 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-buttonClicked:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 104;
+		location = TycoTestScenario2;
+		modificationTime = 361013575.662312;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49D12E99157FD69C00E2F81E /* RootViewController.m:77 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-buttonClicked:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 77;
+		location = TycoTestScenario2;
+		modificationTime = 361013575.662341;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49D12E9B157FD69E00E2F81E /* RootViewController.m:65 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-buttonClicked:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 65;
+		location = TycoTestScenario2;
+		modificationTime = 361013575.6623839;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49D12E9D157FD6A000E2F81E /* RootViewController.m:54 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-buttonClicked:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 54;
+		location = TycoTestScenario2;
+		modificationTime = 361013587.0984129;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	49D12E9F157FD6A200E2F81E /* RootViewController.m:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		functionName = "-buttonClicked:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 43;
+		location = TycoTestScenario2;
+		modificationTime = 361013580.084789;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+}
